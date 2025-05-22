@@ -21,7 +21,7 @@ export default function Education() {
                     <GraduationCap className="h-8 w-8 text-primary" />
                   </div>
                   <div>
-                    <h3 className="text-xl font-bold">I am currently studing Diploma in Computer Engineering</h3>
+                    <h3 className="text-xl font-bold">I am currently studying Diploma in Computer Engineering</h3>
                     <p className="text-muted-foreground">LJ Polytechnic (07/2023 - Present)</p>
                   </div>
                 </div>
