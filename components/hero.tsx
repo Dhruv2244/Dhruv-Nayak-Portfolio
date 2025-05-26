@@ -30,7 +30,7 @@ export default function Hero() {
               <Link href="#contact">Get In Touch</Link>
             </Button>
           <Button asChild variant="outline" size="lg" className="rounded-full">
-  <a href="/Dhruv-Nayak-Resume.pdf" download>
+  <a href="/Dhruv-Nayak-Resume.pdf1" download>
     <Download className="mr-2 h-4 w-4" /> Download Resume
   </a>
 </Button>
